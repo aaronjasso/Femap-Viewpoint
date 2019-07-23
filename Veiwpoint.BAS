@@ -20,6 +20,8 @@ Sub Main
 	'limitations under the License.
     '
 	'----------------------------------------------------------------------------------------------------
+	'Please comment or contribute at https://github.com/aaronjasso/Femap-Vewpoint
+	'
     'Changes in v3 (5.9.2019):
     '-Added ability to include view window size in the view definition. There is no
     '	built-in way to get the view size (the method should be feWindowGetSize,
