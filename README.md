@@ -13,7 +13,7 @@ This is useful for updating reports, presentations, or spreadsheets where you ma
 ![Viewpoint](images/viewpoint.png)
 
 ##### Current View
- The current parameters of the view in the active Femap window are shown here. As stated in the _Format_ section, the view data is displayed as:
+ The current parameters of the view in the active Femap window are shown here. As shown in the _Format_ section, the view data is displayed as:
  ```
  X Rotation
  Y Rotation
