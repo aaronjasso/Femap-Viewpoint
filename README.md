@@ -40,7 +40,7 @@ The data in the clipboard can be used to return to the viewpoint it describes.
 #### Rounding
 The data defaults to five decimal places of precision. This can be unwieldy or unnecessary, so there's an option to round the data into a desired precision.
 
-The **Round Now** button will update the _Current View_ window with the number of decimal places specified in the _decimal place(s)_ input box. The actual view window containint the model is also updated.
+The **Round Now** button will update the _Current View_ window with the number of decimal places specified in the _decimal place(s)_ input box. The actual view window containing the model is also updated.
 
 ### Go To View
 Pasting previous viewpoint data into the input box and clicking _Go To Here_ will return the active Femap window to the view described by the data. The ability to return to a previously used view is the main purpose of this program.
