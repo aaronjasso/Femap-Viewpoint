@@ -57,4 +57,4 @@ As of Femap 2019.1, there's not an API call to get the size of the active view. 
 
 This requires use of the `feFilePictureSave2` API method which writes `Picture Save to Image Complete.  Image File: FemapTempPic.bmp` to the message window. This message is unnecessary and potentially confusing, but I haven't found a way to prevent it.
 
-This hack also relies on the %TEMP% environmental variable, and has only been tested on Windows systems. On other platforms, the _Include View Size_ option may not work.
+This hack also relies on the `%TEMP%` environmental variable, and has only been tested on Windows systems. On other platforms, the _Include View Size_ option may not work.
