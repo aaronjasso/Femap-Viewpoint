@@ -3,6 +3,8 @@ Lightweight program for listing and reloading basic view data.
 
 See also: [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts) and [The List of my Femap Scripts](https://github.com/aaronjasso/My-Femap-Scripts)
 
+---
+
 This program will display basic model position, orientation, magnification, and (optionally) view window size data for your current FEM view. This makes it easy to return to a known view of your model, provided you saved the view information somewhere.
 
 This is useful for updating reports, presentations, or spreadsheets where you may have things like arrow leaders or text boxes positioned precisely over an FEM picture that needs to be updated. Being able to copy the _exact_ same view angle means you won't have to move any leaders or textboxes or any other separate entities that rely on the figure. It's also useful for returning to a useful orientation within Femap after some operation elsewhere. The view data is stored as plaintext. When making reports in Microsoft Word, I store the view data with my FEM pictures in the ALT TEXT section.
