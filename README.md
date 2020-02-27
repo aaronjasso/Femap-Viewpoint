@@ -10,7 +10,7 @@ This is useful for updating reports, presentations, or spreadsheets where you ma
 >NOTE: the term 'view' used in this document is not the same as a Femap View. The view data used by this program is much more limited than a Femap View. It is also not incorporated into the model file in any way.
 
 ### The User Interface
-![Viewpoint](images/viewpoint.png)
+![Viewpoint](images/viewpoint4.png)
 
 ##### Current View
  The current parameters of the view in the active Femap window are shown here. As stated in the **format** section, the view data is displayed as:
