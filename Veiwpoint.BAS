@@ -5,22 +5,27 @@ Sub Main
     'Program to display current viewpoint parameters, round or copy them to the
     'clipboard, and optionally go to user-provided display parameters
     '
-	'
-	'Licensed under the Apache License, Version 2.0 (the "License");
-	'you may not use this file except in compliance with the License.
-	'You may obtain a copy of the License at
-	'
-	'    http://www.apache.org/licenses/LICENSE-2.0
-	'
-	'Unless required by applicable law or agreed to in writing, software
-	'distributed under the License Is distributed On an "AS IS" BASIS,
-	'WITHOUT WARRANTIES Or CONDITIONS OF Any KIND, either express Or implied.
-	'See the License For the specific language governing permissions And
-	'limitations under the License.
     '
-	'----------------------------------------------------------------------------------------------------
-	'Please comment or contribute at https://github.com/aaronjasso/Femap-Vewpoint
-	'
+    'Licensed under the Apache License, Version 2.0 (the "License");
+    'you may not use this file except in compliance with the License.
+    'You may obtain a copy of the License at
+    '
+    '    http://www.apache.org/licenses/LICENSE-2.0
+    '
+    'Unless required by applicable law or agreed to in writing, software
+    'distributed under the License Is distributed On an "AS IS" BASIS,
+    'WITHOUT WARRANTIES Or CONDITIONS OF Any KIND, either express Or implied.
+    'See the License For the specific language governing permissions And
+    'limitations under the License.
+    '
+    '----------------------------------------------------------------------------------------------------
+    'Please comment or contribute at https://github.com/aaronjasso/Femap-Vewpoint
+    '
+    '
+    'Changes in v4 (2.27.2020):
+    '-Added button to create new view object based on current view.
+    '-Made view input field have focus by default
+    '
     'Changes in v3 (5.9.2019):
     '-Added ability to include view window size in the view definition. There is no
     '	built-in way to get the view size (the method should be feWindowGetSize,
