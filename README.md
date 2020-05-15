@@ -1,7 +1,9 @@
 # Femap Viewpoint
 Lightweight program for listing and reloading basic view data.
 
-See [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts) if you're unfamiliar with how to run a macro program
+See also: [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts) and [The List of my Femap Scripts](https://github.com/aaronjasso/My-Femap-Scripts)
+
+---
 
 This program will display basic model position, orientation, and magnification data (and optionally view window size) for your current FEM view. This makes it easy to return to a known view of your model, provided you saved the view information somewhere.
 
