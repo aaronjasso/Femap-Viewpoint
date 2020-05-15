@@ -52,6 +52,8 @@ Copies the current view to a new Femap View. The new View will be titled "Viewpo
 
 The Create button makes the view and closes the macro.
 
+>Important: When you press Enter on your keyboard, it's equivalient to pressing the `Close` button, _NOT_ the `Create` button. If you type a name in this field a press enter, a new View will not be created. You must click the `Create` button to make a new View.
+
 ### Notes
 
 **View Size**
